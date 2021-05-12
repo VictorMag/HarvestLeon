@@ -493,8 +493,9 @@ section .title::after {
 .services .serv-content .card {
   position: relative;
   height: 470px;
-  width: calc(45%);
+  width: 800px;
   background: #222;
+  margin: auto;
   text-align: center;
   border-radius: 6px;
   padding: 20px 25px;

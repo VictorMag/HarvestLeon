@@ -1,4 +1,0 @@
-66.249.73.29 - - [26/Apr/2021:04:09:28 -0500] "GET /robots.txt HTTP/1.1" 301 242 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-66.249.73.30 - - [26/Apr/2021:04:09:37 -0500] "GET / HTTP/1.1" 301 232 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-66.249.73.31 - - [26/Apr/2021:08:26:32 -0500] "GET / HTTP/1.1" 301 232 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-66.249.73.30 - - [26/Apr/2021:10:43:12 -0500] "GET / HTTP/1.1" 301 232 "-" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.130 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
